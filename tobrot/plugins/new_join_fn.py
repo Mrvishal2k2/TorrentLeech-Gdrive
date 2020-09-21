@@ -38,15 +38,15 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""join this group forr help-- @GbotStoreSupport\n\n And also don't forget to fork this repo: <a href="https://github.com/gautamajay52/TorrentLeech-Gdrive">TorrentLeech-Gdrive</a>""", disable_web_page_preview=True)
+    await message.reply_text(""" No one is going to help you Getlost -- @Mrvishal_bot\n\n And also don't forget to fork this repo: <a href="https://github.com/Mrvishal2k2/TorrentLeech-Gdrive">TorrentLeech-Gdrive</a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
     inline_keyboard = []
     inline_keyboard.append([
         pyrogram.InlineKeyboardButton(
-            text="read this?",
-            url="https://t.me/keralagram/698909"
+            text="Sorry no rename function",
+            url="https://t.me/Aiokingbot"
         )
     ])
     reply_markup = pyrogram.InlineKeyboardMarkup(inline_keyboard)
