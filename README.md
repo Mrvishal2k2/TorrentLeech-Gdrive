@@ -48,7 +48,11 @@ e)It should look like `app.json`. 🎉
 
 f)Then tap 👇👇
 
- Heroku is not supported now 😕 #Dead
+#Deploy with heroku
+Only for @Mrvishal2k2 others dont even dare to touch deploy button ◼️ 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ Heroku is not supported now 😕 #Alive for me
 
 Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
 
@@ -287,6 +291,7 @@ sudo docker run torrentleech-gdrive
 
 
 ## Credits, and Thanks to
+* [Me]
 * [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
 * [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
 * [Rclone Team](https://rclone.org) for theirs awesome tool☁️
